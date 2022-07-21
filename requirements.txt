@@ -1,0 +1,4 @@
+argparse
+requests
+jsons
+os-sys
